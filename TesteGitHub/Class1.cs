@@ -15,7 +15,7 @@ namespace TesteGitHub
 
         public static double FahrenheitParaKelvin(double temperatura)
         {
-            return Math.Round(((temperatura - 32) / 1.8) + 273.15, 2);
+            return Math.Round(((temperatura - 32) / 1.8) + 273.15, 2)dfa;
         }
     }
 }
